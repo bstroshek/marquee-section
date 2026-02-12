@@ -8,6 +8,7 @@ This is a custom Shopify section that displays products in a horizontally scroll
 
 ## Preview
 Live Preview: https://marquee-products.myshopify.com/
+password: yawngu
 
 ## Notes
 - Price data is loaded dynamically from https://fakestoreapi.com/
